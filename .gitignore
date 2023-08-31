@@ -1,2 +1,13 @@
 node_modules
 .env
+prompt-engineering.md
+100-dad-joke-penguins.png 
+200-shark-movies-few-shot-1.png 
+200-shark-movies-few-shot.png 
+300-shark-movies-zero-shot.png 
+400-shark-movies-one-shot.png 
+500-standard-vs-cot-prompting.webp 
+600-prompting-citations.png 
+700-role-play.png 
+800-question-answer.png
+900-application-output.png
